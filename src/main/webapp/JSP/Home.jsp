@@ -167,7 +167,7 @@ window.onscroll = function() {
 
  <footer>
     <img class="logo1" src="../Images/logo.png" >
-    <p id="cprt">Copyright © 2022 Eventrra. Website design & management by God Kiriharan.</p>
+    <p id="cprt">Copyright © 2022 Eventrra. Website design & management by Team 1.</p>
     <div class="social-container">
         <ul class="social-icons">
             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
