@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>Home page</title>
-    <link rel="stylesheet" href="../CSS/Hm.css">
+    <link rel="stylesheet" href="../CSS/Home.css">
     
 </head>
 <body>
@@ -28,7 +28,6 @@
                 <button class="btn" onclick = >Log In</button>
             </div> -->
         </div> 
-    </div>
 </header>
   
     
@@ -164,6 +163,8 @@ window.onscroll = function() {
 
   <!-- <h1>sdfsdfdsf</h1> -->
  </div>
+ 
+ </section>
 
  <footer>
     <img class="logo1" src="../Images/logo.png" >
